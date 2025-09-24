@@ -1,6 +1,6 @@
 # 空洞骑士&amp;丝之歌存档文件解析
 
-使用 Python 编写
+使用 Python3 编写
 
 算法借鉴于 https://github.com/bloodorca/hollow
 
